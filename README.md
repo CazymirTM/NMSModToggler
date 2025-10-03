@@ -1,6 +1,7 @@
 # NMSModToggler
 I made this for people that want to toggle mods on or off really fast by just pressing one click.
 
+(For github users downloading from here, i recommand putting the exe into a folder)
 How this functions:
 1. You need to choose your NMS path to mods (WHEREYOUHAVETHEGAMEINSTALLED/GAMEDATA)
 2. Create MODS Folder (if you don't have it)
