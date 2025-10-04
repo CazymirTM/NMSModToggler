@@ -1,5 +1,5 @@
 # NMSModToggler
-I made this for people that wants to toggle mods on or off really fast by just pressing one click.
+I made this for people that want to toggle mods on or off really fast by just pressing one click.
 
 (For github users downloading from here, i recommend putting the exe into a folder)
 
