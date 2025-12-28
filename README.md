@@ -1,6 +1,8 @@
 # No Man's Sky Mod Toggler
 I made this for people that want to toggle mods on or off really fast by just pressing one click.
 
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/NMSModToggler/releases/latest)
+
 (For github users downloading from here, i recommend putting the exe into a folder)
 
 How this functions:
@@ -8,6 +10,7 @@ How this functions:
 2. Create MODS Folder (if you don't have it)
 3. Disable or enable mods
 4. Done!
+![GUI of NMS Mod Toggler](NMSMTUI.png)
 
 
 (Reworked the entire code for better utility)
