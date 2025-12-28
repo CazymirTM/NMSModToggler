@@ -17,4 +17,4 @@ How this functions:
 Now whenever you want to disable mods fast, just open the app and click disable and the app will just rename the MODS folder to _DISABLEDMODS, and same goes for enable mods, it will rename back the MODS folder to it's original state
 
 
-(FOR DEVS): I used Newtonsoft.json and Costura.Fody packages.
+__(FOR DEVS): I used Newtonsoft.json and Costura.Fody packages.__
